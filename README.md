@@ -1,2 +1,2 @@
 # pesoideal
-Conforme o gênero o programa calcula o peso ideal
+Conforme o gênero escolhido o programa calcula o peso ideal para a altura informada
