@@ -1,2 +1,2 @@
 # pesoideal
-Conforme gênero o programa calcula o peso ideal
+Conforme o gênero o programa calcula o peso ideal
